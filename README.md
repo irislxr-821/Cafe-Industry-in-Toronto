@@ -12,10 +12,23 @@ Our team, acting as data consultants, is tasked with aiding a café in selecting
 To analyze the café industry in Toronto, we collected reviews from Google Maps for 12 cafes in Queen St. E. and Bay St. using web scraping. Our "getReviews" function, utilizing Selenium in Python, extracts review details like user name, date, rating, and text by interacting with Google Maps. We stored the data in a Pandas DataFrame, gathering 3262 reviews for market research insights.
 
 ## Results
-The WordCloud Analysis reveals common words from customer reviews, aiding restaurateurs in pinpointing what matters most to patrons. For location decisions, we analyzed preferences in the Queen St E. and Bay St. areas. Additionally, logistic regression and Naive Bayes models highlighted "amazing," "downtown," "delicious," "awesome," and "friendly" as key positives in reviews, while negatives often mentioned "server," "overpriced," "use," "salad," and "bad." These insights help understand customer feedback and preferences.
+The WordCloud Analysis reveals common words from customer reviews, aiding restaurateurs in pinpointing what matters most to patrons. For location decisions, we analyzed preferences in the Queen St E. and Bay St. areas. Additionally, logistic regression and Naive Bayes models highlighted "amazing," "downtown," "delicious," "awesome," and "friendly" as key positives in reviews, while negatives often mentioned "server," "overpriced," "use," "salad," and "bad." These insights help understand customer feedback and preferences. Below is one example of the WordCloud.
+<p align="center">
+<img src="./images/WordCloud.png" width="50%" > 
+</p>
+
+<p align="center">
+ WordCloud of most frequently mentioned in the positive reviews
+</p>
 
 ## Business Insights
 The analysis reveals that Queen St. E customers prioritize food, evident from its frequent mention in reviews, unlike in Bay St. This suggests Queen St. E as the better location for our client's food-focused café, especially since negative reviews highlight a demand for better food options. Given the emphasis on 'service' in reviews, investing in quality staff over interior design is advisable to stand out, particularly in Queen St. E where service often garners criticism.
 Key recommendations include concentrating on breakfast with popular items like cheese, eggs, and salad to attract morning customers. Additionally, addressing complaints about long wait times in Queen St. E could significantly improve customer experience and competitive edge.
 
 # ☕Part #2 - Strategies for Luckin to select a location
+<p align="center">
+<img src="./images/LuckinCoffe.jpg" width="60%" > 
+</p>
+
+## Description
+
