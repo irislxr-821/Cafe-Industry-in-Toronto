@@ -5,7 +5,7 @@ Tools: Python (gensim, wordcloud, matplotlib, selenium, pandas, numpy), PowerPoi
 
 # 🏣Part #1 - Industry Analysis
 ## Description
-As a coffee enthusiast, I'm interested in Toronto's café scene. It's competitive, so knowing what other cafés do well helps set yours apart. Learning about your customers' likes and gathering their feedback is crucial for creating a café that they'll love. Market research is key to standing out and ensuring a café's success in Toronto.
+As someone who loves coffee and is interested in Toronto's café world, it's important for those wanting to open a café to know what customers like and to ask for their opinions. Doing research is key to making a café stand out and do well in Toronto. NLP (a way to understand text data) is a great tool for looking at what people say because most of the information comes in words.
 
 ## Objective
 Our team, acting as data consultants, is tasked with aiding a café in selecting the optimal location between Queen St. E. and Bay St., catering to its specialty in coffee and meal offerings for breakfast and lunch. The owner views their diverse menu as a key competitive edge but faces budget constraints affecting decisions on interior decor versus staff hiring to enhance customer experience initially. Beyond location and these decisions, they seek further advice for success.
