@@ -10,8 +10,23 @@ As someone who loves coffee and is interested in Toronto's café world, it's imp
 ## Objective
 Our team, acting as data consultants, is tasked with aiding a café in selecting the optimal location between Queen St. E. and Bay St., catering to its specialty in coffee and meal offerings for breakfast and lunch. The owner views their diverse menu as a key competitive edge but faces budget constraints affecting decisions on interior decor versus staff hiring to enhance customer experience initially. Beyond location and these decisions, they seek further advice for success.
 
-## Data Collection and Methodology
+## Data Collection
 To analyze the café industry in Toronto, we collected reviews from Google Maps for 12 cafes in Queen St. E. and Bay St. using web scraping. Our "getReviews" function, utilizing Selenium in Python, extracts review details like user name, date, rating, and text by interacting with Google Maps. We stored the data in a Pandas DataFrame, gathering 3262 reviews for market research insights.
+
+# Methodology
+After gathering the data, we proceeded with data cleaning as follows: <br>
+Basic Cleaning: <br>
+• lowercase <br>
+• punctuation removal <br>
+• white space removal <br>
+• speical characters removal <br>
+• tokenization <br>
+Text Filtering: <br>
+• stop words removal <br>
+• text normalization (lemmatization) <br>
+• text filtering: noun, adj, verb, adv (optional) <br>
+• filter non-english reviews 
+Then, we conducted sentiment analysis to further understand the data and used supervised learning classifiers for text prediction.
 
 ## Results
 The WordCloud Analysis reveals common words from customer reviews, aiding restaurateurs in pinpointing what matters most to patrons. For location decisions, we analyzed preferences in the Queen St E. and Bay St. areas. Additionally, logistic regression and Naive Bayes models highlighted "amazing," "downtown," "delicious," "awesome," and "friendly" as key positives in reviews, while negatives often mentioned "server," "overpriced," "use," "salad," and "bad." These insights help understand customer feedback and preferences. Below is one example of the WordCloud.
