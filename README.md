@@ -25,6 +25,12 @@ The WordCloud Analysis reveals common words from customer reviews, aiding restau
 The analysis reveals that Queen St. E customers prioritize food, evident from its frequent mention in reviews, unlike in Bay St. This suggests Queen St. E as the better location for our client's food-focused café, especially since negative reviews highlight a demand for better food options. Given the emphasis on 'service' in reviews, investing in quality staff over interior design is advisable to stand out, particularly in Queen St. E where service often garners criticism.
 Key recommendations include concentrating on breakfast with popular items like cheese, eggs, and salad to attract morning customers. Additionally, addressing complaints about long wait times in Queen St. E could significantly improve customer experience and competitive edge.
 
+## Files
+Refer to [cafe_reviews_scrapping.ipynb](cafe_reviews_scrapping.ipynb) for data scrapping code using Python <br>
+Refer to [cafe_reviews_analysis.ipynb](cafe_reviews_analysis.ipynb) for NLP analysis code using Python <br>
+Refer to [CafesURL.xlsx](CafesURL.xlsx) for the names of the selected cafés <br>
+Refer to [cafe_report.pdf](cafe_report.pdf) for the detailed procedural explanations
+
 # ☕Part #2 - Strategies for Luckin to select a location
 <p align="center">
 <img src="./images/LuckinCoffe.jpg" width="60%" > 
@@ -52,3 +58,6 @@ If Luckin wants to start their cafe at Neighborhood
 2. ensuring beverage quality
 3. addressing any issues related to store size, wait times, or customer expectations
 4. offering a variety of flavors and menu options to meet customer preferences
+
+## Files
+Refer to [Luckin-Strategy.pdf](Luckin-Strategy.pdf) for the detailed explanation of strategies
