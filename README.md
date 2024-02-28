@@ -15,17 +15,18 @@ To analyze the café industry in Toronto, we collected reviews from Google Maps 
 
 # Methodology
 After gathering the data, we proceeded with data cleaning as follows: <br>
-Basic Cleaning: <br>
+_Basic Cleaning:_ <br>
 • lowercase <br>
 • punctuation removal <br>
 • white space removal <br>
 • speical characters removal <br>
 • tokenization <br>
-Text Filtering: <br>
+_Text Filtering:_ <br>
 • stop words removal <br>
 • text normalization (lemmatization) <br>
 • text filtering: noun, adj, verb, adv (optional) <br>
-• filter non-english reviews 
+• filter non-english reviews <br>
+<br>
 Then, we conducted sentiment analysis to further understand the data and used supervised learning classifiers for text prediction.
 
 ## Results
