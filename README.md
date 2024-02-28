@@ -1,5 +1,7 @@
 # Cafe-Industry-in-Toronto
-This project consists of two parts: The first part uses NLP (Natural Language Processing) to analyze the Toronto café industry, while the second part offers business strategies for the Chinese Coffee Brand, Luckin, to enter the Toronto market, leveraging insights from the first part.
+This project consists of two parts: The first part uses NLP (Natural Language Processing) to analyze the Toronto café industry, while the second part offers business strategies for the Chinese Coffee Brand, Luckin, to enter the Toronto market, leveraging insights from the first part. <br>
+<br>
+Tools: Python (gensim, gensim, wordcloud, matplotlib, selenium, pandas, numpy), PowerPoint
 
 # 🏣Part #1 - Industry Analysis
 ## Description
