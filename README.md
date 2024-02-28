@@ -31,4 +31,24 @@ Key recommendations include concentrating on breakfast with popular items like c
 </p>
 
 ## Description
+Luckin Coffee, China's leading coffee chain, is looking to expand into the Canadian market, focusing on Toronto's Queen St. E and Bay St. areas. They have enlisted the expertise of McGill MMA's professional data team to pinpoint locations that best match Luckin Coffee's brand identity and to offer precise location recommendations.
 
+## Methodology
+After revisiting the findings from part 1 and adjusting them to better suit Luckin's business strategy, we have formulated multiple recommendations for Luckin.
+<p align="center">
+<img src="./images/LuckinRe.png" width="100%" > 
+</p>
+
+If Luckin wants to start their cafe at Neighborhood 1 
+Queen St. E, we recommend:
+1. incorporating low-carb and beach-related themes in the store's finishing and menu offerings
+2. prioritizing customer service and encouraging neighborhood engagement
+3. ensuring shorter wait times
+4. optimized pricing strategy
+
+If Luckin wants to start their cafe at Neighborhood 
+2 Bay St., we recommend:
+1. maintaining a positive store environment by improving staff friendliness and efficiency
+2. ensuring beverage quality
+3. addressing any issues related to store size, wait times, or customer expectations
+4. offering a variety of flavors and menu options to meet customer preferences
