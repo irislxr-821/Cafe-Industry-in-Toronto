@@ -39,7 +39,7 @@ Refer to [cafe_report.pdf](cafe_report.pdf) for the detailed procedural explanat
 </p>
 
 ## Description
-Luckin Coffee, China's leading coffee chain, is looking to expand into the Canadian market, focusing on Toronto's Queen St. E and Bay St. areas. They have enlisted the expertise of McGill MMA's professional data team to pinpoint locations that best match Luckin Coffee's brand identity and to offer precise location recommendations.
+Business Assumptions: Luckin Coffee, China's leading coffee chain, is looking to expand into the Canadian market, focusing on Toronto's Queen St. E and Bay St. areas. They have enlisted the expertise of McGill MMA's professional data team to pinpoint locations that best match Luckin Coffee's brand identity and to offer precise location recommendations.
 
 ## Methodology
 After revisiting the findings from part 1 and adjusting them to better suit Luckin's business strategy, we have formulated multiple recommendations for Luckin.
