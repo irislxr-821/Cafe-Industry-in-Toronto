@@ -8,7 +8,7 @@ Tools: Python (gensim, wordcloud, matplotlib, selenium, pandas, numpy), PowerPoi
 As someone who loves coffee and is interested in Toronto's café world, it's important for those wanting to open a café to know what customers like and to ask for their opinions. Doing research is key to making a café stand out and do well in Toronto. NLP (a way to understand text data) is a great tool for looking at what people say because most of the information comes in words.
 
 ## Objective
-Our team, acting as data consultants, is tasked with aiding a café in selecting the optimal location between Queen St. E. and Bay St., catering to its specialty in coffee and meal offerings for breakfast and lunch. The owner views their diverse menu as a key competitive edge but faces budget constraints affecting decisions on interior decor versus staff hiring to enhance customer experience initially. Beyond location and these decisions, they seek further advice for success.
+Business Assumption: Our team, acting as data consultants, is tasked with aiding a café in selecting the optimal location between Queen St. E. and Bay St., catering to its specialty in coffee and meal offerings for breakfast and lunch. The owner views their diverse menu as a key competitive edge but faces budget constraints affecting decisions on interior decor versus staff hiring to enhance customer experience initially. Beyond location and these decisions, they seek further advice for success.
 
 ## Data Collection
 To analyze the café industry in Toronto, we collected reviews from Google Maps for 12 cafes in Queen St. E. and Bay St. using web scraping. Our "getReviews" function, utilizing Selenium in Python, extracts review details like user name, date, rating, and text by interacting with Google Maps. We stored the data in a Pandas DataFrame, gathering 3262 reviews for market research insights.
@@ -57,7 +57,7 @@ Refer to [cafe_report.pdf](cafe_report.pdf) for the detailed procedural explanat
 ## Description
 Business Assumptions: Luckin Coffee, China's leading coffee chain, is looking to expand into the Canadian market, focusing on Toronto's Queen St. E and Bay St. areas. They have enlisted the expertise of McGill MMA's professional data team to pinpoint locations that best match Luckin Coffee's brand identity and to offer precise location recommendations.
 
-## Methodology
+## Recommendations
 After revisiting the findings from part 1 and adjusting them to better suit Luckin's business strategy, we have formulated multiple recommendations for Luckin.
 <p align="center">
 <img src="./images/LuckinRe.png" width="100%" > 
