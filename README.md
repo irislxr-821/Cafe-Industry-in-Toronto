@@ -77,5 +77,5 @@ If Luckin wants to start their cafe at Neighborhood
 3. addressing any issues related to store size, wait times, or customer expectations
 4. offering a variety of flavors and menu options to meet customer preferences
 
-## Files
+## File
 Refer to [Luckin-Strategy.pdf](Luckin-Strategy.pdf) for the detailed explanation of strategies
